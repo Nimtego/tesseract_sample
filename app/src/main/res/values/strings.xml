@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">tesseract_sample</string>
+    <string name="instruction_captur">INSTRUCTION: Capture image with ENG text, don\'t rotate screen, WAIT SEVERAL
+        SECONDS when OCR processing (You may see black screen).
+    </string>
+    <string name="capture_image">Capture image</string>
+    <string name="ocr_result">OCR result will be here</string>
 </resources>
